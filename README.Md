@@ -20,13 +20,13 @@ These projects are part of a intensive day-to-day programming session, some may 
 To clone this repository, including all of its submodules:
 
 ```shell
-git clone --recursive git@github.com:AdrianWeaver/42cursus.git
+git clone --recursive git@github.com:AdrianWeaver/cpp_piscine.git
 ```
 
 Alternatively, you can:
 
 ```shell
-git clone git@github.com:AdrianWeaver/42cursus.git
+git clone git@github.com:AdrianWeaver/cpp_piscine.git
 git submodule update --init --recursive
 ```
 
